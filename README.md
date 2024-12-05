@@ -43,7 +43,7 @@ I am a **Java Full Stack Developer** with 1.5+ years of experience in designing 
 A comprehensive system to streamline insurance policy management.  
 **Tech Used:** Java, Hibernate, MySQL  
 
-### 🎟️ **MyMoveTicket** (In Progress)  
+### 🎟️ **MyMovieTicket** (In Progress)  
 A ticket booking platform offering seamless reservation and user management features.  
 **Tech Used:** Spring Boot, Hibernate, MySQL, Angular  
 
