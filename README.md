@@ -19,7 +19,7 @@ public class ManojKumar {
 
     private final String name     = "K V Manoj Kumar";
     private final String role     = "Java Full Stack Developer";
-    private final double exp      = 1.5;   // years
+    private final double exp      =  4;   // years
     private final String location = "India 🇮🇳";
 
     private final String[] currentlyBuilding = {
